@@ -1,3 +1,6 @@
+// Kevin Navarro Navarro
+//Ismael
+//Juan Diego Coto Ramírez
 
 package proyectoprogramacion;
 
